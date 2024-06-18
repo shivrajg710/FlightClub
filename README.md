@@ -1,4 +1,4 @@
-### Project Title: Jack's Flight Club Python Application
+### Project Title: Flight Club Python App
 
 #### Project Description
 
